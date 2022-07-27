@@ -1,3 +1,4 @@
-Adding some text
+Added some changes to file
 These changes from Dev2
 I made changes to dev2 for dev3
+Made some changes to the file 
